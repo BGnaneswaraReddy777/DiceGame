@@ -1,0 +1,36 @@
+h1{
+    font-family: serif;
+    margin: 40px;
+    font-style: italic;
+    font-size: 80px;
+    color: #f9c687;
+}
+body{
+    background-color: #F5F5DC;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.player{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-style: italic;
+    font-size: 40px;
+    color: #f9c687;
+}
+.img1{
+    width: 80%;
+}
+.img2{
+    width: 80%;
+}
+.btn{
+    height: 30px;
+    width: 80px;
+    color: #f9c687;
+    background-color: rgb(131, 6, 6); ;
+}
+
